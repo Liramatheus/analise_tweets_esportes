@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte de uma atividade avaliativa da faculdad
 - `collections.Counter` – para contar palavras
 - `nltk.vader` – para análise de sentimentos
 
-## 📊 Etapas do Projeto
+## Etapas do Projeto
 
 1. **Coleta dos Tweets:** Utilizando a API do Twitter com `Bearer Token`.
 2. **Limpeza do Texto:** Remoção de menções, hashtags, links, pontuação e normalização.
